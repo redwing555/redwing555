@@ -27,7 +27,7 @@
 
 <br>
 
-<h3> 💻 Get in touch dont be shy !  </h3>
+<h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Get in touch dont be shy !  </h3>
 
   <a href="https://www.linkedin.com/in/houssam-hichami-a0aab7175/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
